@@ -1,0 +1,216 @@
+head:
+  title: "Sathvik Racha | Personal blog"
+  description: "Personal site for Sathvik Racha"
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Sathvik."
+  subtitle: "Cloud Engineer and Tech Enthusiast"
+  description: "A tech enthusiast and former SAP Consultant with a Master’s degree in Computer Science from the University of Bridgeport. With extensive experience at Tata Consultancy Services (TCS), I have a solid foundation in enterprise software and IT solutions.
+  </br>
+  Currently based in Portland, Oregon, I am transitioning into a Cloud Engineer role, specializing in cloud platforms like AWS and Azure. I am passionate about leveraging cutting-edge technology to design and implement scalable, secure, and efficient cloud infrastructures.
+  </br>
+  Outside of work, I enjoy exploring nature and capturing moments through photography. Feel free to connect with me for collaboration or to discuss cloud technology solutions."
+  image:
+    alt: "Profile picture of Adrián Moreno Peña (@zetxek), smiling over a petroleum color background"
+    x: "images/adrian.jpg"
+    _2x: "images/adrian@2x.jpg"
+  imageMobile:
+    alt: "Profile picture of Adrián Moreno Peña (@zetxek), smiling over a petroleum color background"
+    x: "images/adrian.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "#contact"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/sathvik-racha-32512a1b1/"
+
+    - icon: "github"
+      URL: "https://github.com/sathvikracha"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/sathvik.racha/"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: |
+    I’m Sathvik Racha, a technology enthusiast and nature aficionado with a penchant for capturing life's moments through the lens of a camera. My journey began in India, where I cultivated a passion for technology that led me to pursue a Master’s degree in Computer Science from the University of Bridgeport, Connecticut.
+    </br>
+    Before coming to the USA, I worked at Tata Consultancy Services (TCS) in India, where I developed a strong foundation in enterprise software as an SAP Consultant. This role honed my technical skills and ignited my interest in cutting-edge technology solutions.
+    </br>
+    My fascination with the limitless possibilities of the cloud has directed me towards a career in cloud engineering. With hands-on experience in cloud platforms such as AWS and Azure, I am dedicated to designing and implementing scalable, secure, and efficient cloud solutions. I am particularly interested in exploring how cloud technologies can drive innovation and efficiency in various industries.
+    </br>
+    Outside of my professional life, I am an avid explorer and an extrovert who loves meeting new people and discovering new places. My passion for photography complements my adventurous spirit, allowing me to capture the beauty of the world around me. Whether it’s hiking in the scenic trails of Portland, Oregon, or engaging with diverse communities, I thrive on new experiences and opportunities to learn and lead.
+    </br>
+    In essence, I am a lifelong learner, always eager to embrace new challenges and opportunities. I believe in the power of technology to transform lives and businesses, and I am committed to making a positive impact through my work.
+
+
+  button:
+    enable: false
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/adrianmoreno/"
+  image:
+    x: "images/working-left.jpg"
+    _2x: "images/working-left@2x.jpg"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Bridgeport"
+      degree: "Master in Computer Science"
+
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I began my career as an SAP Consultant at Tata Consultancy Services (TCS) in India, managing and implementing complex SAP projects. Now, I focused on cloud technologies, specializing in AWS and Azure. Now, I am transitioning into a Cloud Engineer role, leveraging my expertise to design and implement scalable, secure cloud infrastructures.
+
+"
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/sathvik-racha-32512a1b1/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download résumé"
+    URL: "/files/cv_adrian_moreno_english.pdf"
+  button3: 
+    icon: "icon-arrow-right"
+    btnText: "All experience"
+    URL: "/experience"
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+
+  clients:
+    - logo:
+        x: "images/clients/asgardia.png"
+        _2x: "images/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "images/clients/earth-2.png"
+        _2x: "images/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "images/clients/goldline.png"
+        _2x: "images/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "images/clients/kanba.png"
+        _2x: "images/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "images/clients/zoo-tv.png"
+        _2x: "images/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "images/clients/ztos.png"
+        _2x: "images/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "images/works/radity-finance.jpg"
+        _2x: "images/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Swiss Fintech Website"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "images/works/swissfintech.jpg"
+        _2x: "images/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Robo Advisor"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "images/works/robo-advisor.jpg"
+        _2x: "images/works/robo-advisor@2x.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "images/testimonials/daniel-jordan.jpg"
+        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "images/testimonials/jonathan-peters.jpg"
+        _2x: "images/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "images/testimonials/antonio-willis.jpg"
+        _2x: "images/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "https://formspree.io/info@adrianmoreno.info"
+    method: "POST"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+1 516 728 3798"
+  email:
+    title: "Email"
+    email: '<a href="mailto:sathvikracha@gmail.com">sathvikracha@gmail.com</a>'
+  address:
+    title: "Location"
+    address: "Portland (OR)"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
