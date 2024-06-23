@@ -196,7 +196,7 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+1 516 728 3798"
+    number: "+1 (516) 728-3798"
   email:
     title: "Email"
     email: '<a href="mailto:sathvikracha@gmail.com">sathvikracha@gmail.com</a>'
