@@ -81,7 +81,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download resume"
-    URL: "/files/cv_adrian_moreno_english.pdf"
+    URL: "/files/resume_cloud.pdf"
   # button3: 
   #   icon: "icon-arrow-right"
   #   btnText: "All experience"
