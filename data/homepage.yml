@@ -73,21 +73,19 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "I began my career as an SAP Consultant at Tata Consultancy Services (TCS) in India, managing and implementing complex SAP projects. Now, I focused on cloud technologies, specializing in AWS and Azure. Now, I am transitioning into a Cloud Engineer role, leveraging my expertise to design and implement scalable, secure cloud infrastructures.
-
-"
+  description: "I began my career as an SAP Consultant at Tata Consultancy Services (TCS) in India, managing and implementing complex SAP projects. Now, I focused on cloud technologies, specializing in AWS and Azure. Now, I am transitioning into a Cloud Engineer role, leveraging my expertise to design and implement scalable, secure cloud infrastructures."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/sathvikracha/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download résumé"
+    btnText: "Download resume"
     URL: "/files/cv_adrian_moreno_english.pdf"
-  button3: 
-    icon: "icon-arrow-right"
-    btnText: "All experience"
-    URL: "/experience"
+  # button3: 
+  #   icon: "icon-arrow-right"
+  #   btnText: "All experience"
+  #   URL: "/experience"
 # Client & Work
 client_and_work:
   title: "Clients & Works"
