@@ -26,7 +26,7 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/sathvik-racha-32512a1b1/"
+      URL: "https://www.linkedin.com/in/sathvikracha/"
 
     - icon: "github"
       URL: "https://github.com/sathvikracha"
@@ -55,7 +55,7 @@ about:
     enable: false
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/in/adrianmoreno/"
+    URL: "https://www.linkedin.com/in/sathvikracha/"
   image:
     x: "images/working-left.jpg"
     _2x: "images/working-left@2x.jpg"
@@ -79,7 +79,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/sathvik-racha-32512a1b1/"
+    URL: "https://www.linkedin.com/in/sathvikracha/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download résumé"
@@ -189,7 +189,7 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "https://formspree.io/info@adrianmoreno.info"
+    action: "https://formspree.io/info@sathvikracha.com"
     method: "POST"
     full_name: "Full Name"
     email: "Email Address"
