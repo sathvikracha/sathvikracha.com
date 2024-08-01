@@ -78,15 +78,15 @@ experience:
 "
   button:
     icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
+    # btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/sathvikracha/"
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download résumé"
+    # btnText: "Download résumé"
     URL: "/files/cv_adrian_moreno_english.pdf"
   button3: 
     icon: "icon-arrow-right"
-    btnText: "All experience"
+    # btnText: "All experience"
     URL: "/experience"
 # Client & Work
 client_and_work:
